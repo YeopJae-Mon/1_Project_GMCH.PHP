@@ -1,0 +1,33 @@
+.table_a {
+    width: 100%;
+    border-spacing: 10px;
+    border-radius: 10px;
+    background-color:#D5D5D5;
+}
+
+.tr_w {
+    width: 100%;
+   
+}
+.td_w {
+    width: 40%;
+    height: 10%;
+    
+    border-radius: 10px;
+    text-align:center;
+    background-color:#ffffff;
+    
+}
+.td_d {
+    
+    width: 10%;
+   height: 50px;
+   
+   border-radius: 10px;
+   
+}
+#chat_area {
+    height: 300px;
+    width: 100%;
+    background-color:#ffffff;
+}

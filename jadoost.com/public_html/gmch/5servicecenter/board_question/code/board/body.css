@@ -1,0 +1,8 @@
+body{
+   /* padding-top: 10%; /*상단 고정바 가려진 부분 보이게 하기위한 코드*/
+   padding-bottom: 30%; /* 하단 고정바 가려진 부분 보이게 하기위한 코드*/
+    margin:0;
+    text-align: center;
+    font-weight: 900;
+    background-color: #abf0ff;
+}

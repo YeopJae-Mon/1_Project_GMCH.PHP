@@ -1,0 +1,31 @@
+/*상단바*/
+h1{
+    padding:0;
+    margin-top:0;
+    margin-bottom:1%;
+}
+.top{
+    background: linear-gradient(to bottom, #00bd23 50%, #007415 50%);
+    text-align:center;
+    width:100%;
+    color:white;
+    font-family:NotoSansKR-Black;
+}
+p{
+    padding:3%;
+    margin-top:0;
+    margin-bottom:1%;
+    font-size:180%;
+}
+      input.img-button{
+             float:left;
+             width:16%;
+             height:42px;
+             margin-top:2%;
+             background: url( "https://jadoost.com/gmch/testimg/back.png " ) no-repeat;
+             border: 0;
+             outline: 0;
+          }
+            #id{
+              padding-right:15%;
+          }

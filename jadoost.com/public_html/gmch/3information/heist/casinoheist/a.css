@@ -1,0 +1,75 @@
+body{
+   /* padding-top: 10%; /*상단 고정바 가려진 부분 보이게 하기위한 코드*/
+    padding-bottom: 20%;/*하단 고정바 가려진 부분 보이게 하기위한 코드*/
+    margin:0;
+    text-align: center;
+    font-weight: 900;
+   /* background-image: url("/gmch/img/background.png");
+    background-attachment: fixed;
+    background-size :200%; */
+    font-family:NotoSansKR-Bold;
+}
+
+
+/*구습격 플리카쪽 css*/
+.heist_div_left{
+    width:94%;
+    text-align: left;
+}
+.heist_ul_left{
+    width:94%;
+    text-align: left;
+}
+.heist_div_a{
+    margin-right:2%;
+    margin-left:2%;
+    width:94%;
+    border: 1px solid #444444;
+}
+.skkk {
+    margin-left:2%;
+    margin-right:20%;
+    border: 1px solid #444444;
+    text-align: left;
+}
+.skip{
+    margin-left:2%;
+    margin-right:70%;
+    border: 1px solid #444444;
+    text-align: center;
+}
+#elite{
+    width:60%;
+    border: 1px solid #444444;
+    margin-left:2%;
+    
+}
+dd{
+    margin-left:2%;
+}
+
+summary{
+    font-weight: 800;
+}
+details{
+    margin-left:2%;
+}
+.si{
+    margin-left:2%;
+    margin-right:70%;
+    border: 1px solid #444444;
+    width:98%;
+    
+}
+.type1{
+    list-style-type:decimal;
+}
+.typeA{
+    list-style-type:upper-alpha;
+}
+.typeno{
+    list-style-type:none;
+}
+.typeO{
+    list-style-type:circle;
+}

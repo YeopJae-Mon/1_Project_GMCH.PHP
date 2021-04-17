@@ -1,0 +1,33 @@
+body{
+   /* padding-top: 10%; /*상단 고정바 가려진 부분 보이게 하기위한 코드*/
+    padding-bottom: 20%;/*하단 고정바 가려진 부분 보이게 하기위한 코드*/
+    margin:0;
+    text-align: center;
+    font-weight: 900;
+    background-image: url("/gmch/testimg/b.png");
+    background-repeat : no-repeat;
+    background-attachment:fixed;
+    background-size :200%;
+font-family:NotoSansKR-Bold;
+}
+
+/*@font-face {
+    font-family: 'NotoSansKR-Black';
+    src: url(CSS/FONT/NotoSansKR-Black.otf) format('truetype');
+}
+@font-face {
+    font-family: 'NotoSansKR-Thin';
+    src: url(CSS/FONT/NotoSansKR-Thin.otf) format('truetype');
+}
+@font-face {
+    font-family: 'NotoSansKR-Regular';
+    src: url(CSS/FONT/NotoSansKR-Regular.otf) format('truetype');
+}
+@font-face {
+    font-family: 'NotoSansKR-Light';
+    src: url(CSS/FONT/NotoSansKR-Light.otf) format('truetype');
+}*/
+@font-face {
+    font-family: 'NotoSansKR-Bold';
+    src: url(CSS/FONT/NotoSansKR-Bold.otf) format('truetype');
+} 

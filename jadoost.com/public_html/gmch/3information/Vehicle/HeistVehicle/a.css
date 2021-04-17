@@ -1,0 +1,19 @@
+
+/*차 정보 테이블*/
+#car_inf{
+    border: 1px solid #444444;
+    padding: 3%;
+    font-size: 100%;
+    font-weight: 900;
+    background-color:#fff;
+}
+
+/*차 정보 테이블 모양*/
+#car_inf_shape{
+    width: 100%;
+    text-align: center;
+    border: 1px solid #444444;
+    border-collapse: collapse;
+        background-color:#fff;
+}
+
